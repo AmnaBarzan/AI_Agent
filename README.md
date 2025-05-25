@@ -4,19 +4,6 @@
 
 This repository showcases an autonomous AI agent designed to demonstrate advanced reasoning, memory, planning, and interaction. Built using Python and key libraries such as **LangChain**, **OpenAI**, and **Streamlit**, this agent supports interactive user communication with reflective capabilities and persistent memory.
 
-This submission aligns with the assessment requirements for the AI Agent assignment.
-
----
-
-## 📅 Submission Overview
-
-- **🎥 YouTube Short (under 60s)**: [🔗 Link Here](https://youtube.com/shorts/your_video_link)
-- **💻 GitHub Repository**: [🔗 This Repository](https://github.com/yourusername/ai-agent-assignment)
-
----
-
-## ✅ Assessment Criteria Breakdown
-
 | Criterion | How This Project Meets It |
 |----------|----------------------------|
 | **Problem Definition & Motivation** | The agent is designed to simulate cognitive reasoning and memory recall—helpful in tasks like tutoring, research, and decision support. |
@@ -39,3 +26,24 @@ graph TD
     E --> F
     F --> G[memory.py: Store in FAISS Memory]
     G --> H[Display Final Answer in Streamlit]
+
+## 🧠 Key Features
+
+* 🔁 **Reflective Reasoning**: The agent uses internal memory to reflect on and revise responses.
+* 🧠 **Memory (FAISS)**: Stores conversations for persistent, context-aware interaction.
+* 🧰 **Tool Integration**: Dynamically uses tools for factual knowledge via `tools.py`.
+* 📊 **User-Friendly Interface**: Built with Streamlit for easy interaction.
+
+---
+
+## 🎬 YouTube Demo
+
+> 🔗 **Watch the 60-second demo**: [YouTube Short](https://youtube.com/shorts/your_video_link)
+
+---
+
+## 🔮 Future Improvements
+
+* 🎤 Add voice interaction
+* 🌐 More external tools (e.g., current news, calendar integration)
+* 🤖 Multi-agent collaboration
