@@ -3,6 +3,9 @@
 > 🔗 **Link for the app**: [YouTube Short](https://aqua-sage.streamlit.app/)
 > > 🔗 **Watch the 60-second demo**: [YouTube Short](https://youtube.com/shorts/your_video_link)
 
+![App Screenshot](app.png)
+
+
 This repository showcases an autonomous AI agent designed to demonstrate advanced reasoning, memory, planning, and interaction. Built using Python and key libraries such as **LangChain**, **OpenAI**, and **Streamlit**, this agent supports interactive user communication with reflective capabilities and persistent memory.
 
 | Criterion | How This Project Meets It |
