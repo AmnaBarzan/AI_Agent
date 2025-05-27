@@ -189,59 +189,6 @@ def get_real_weather_data(self, location: str):
 
 ---
 
-## 🛠️ Installation & Setup
-
-### **Prerequisites**
-```bash
-Python 3.8+
-pip package manager
-```
-
-### **Quick Start**
-```bash
-# Clone repository
-git clone https://github.com/your-username/aquasage
-cd aquasage
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run application
-streamlit run Langchain_AI_agent.py
-```
-
-### **API Configuration**
-```python
-# Built-in API keys (demo purposes)
-WEATHER_API_KEY = "ca1f4bc8faf447058cd115833252405"
-AGROMONITORING_API_KEY = "fd888d4bc92fc9aa1fb8dc0352e7f137"
-
-# Add your OpenAI key in the sidebar for full AI features
-OPENAI_API_KEY = "your-openai-api-key"
-```
-
----
-
-## 🎯 Real-World Impact & Results
-
-### **Measurable Benefits**
-
-| Metric | Traditional Farming | With AquaSage | Improvement |
-|--------|-------------------|---------------|-------------|
-| **Water Usage** | 100% baseline | 70-80% | **20-30% savings** |
-| **Crop Yield** | 100% baseline | 110-120% | **10-20% increase** |
-| **Monitoring Time** | 3 hours/day | 15 minutes/day | **85% time reduction** |
-| **Weather Preparation** | Reactive | 7-day proactive | **Risk mitigation** |
-| **Decision Accuracy** | 60-70% | 85-95% | **Precision improvement** |
-
-### **Success Stories**
-
-🌾 **Rice Farmers in Sri Lanka**: 25% water reduction while maintaining yield  
-🌽 **Corn Growers**: Early drought warnings prevented $50,000 in crop losses  
-🥬 **Vegetable Farmers**: Optimized irrigation increased harvest quality by 30%
-
----
-
 ## 🔧 Technical Specifications
 
 ### **System Requirements**
@@ -301,25 +248,6 @@ application and increase irrigation frequency to 15-20mm every 2 days."
 - **Predictive Analytics**: Seasonal planning recommendations
 - **Market Integration**: Price forecasting and optimal harvest timing
 - **Climate Modeling**: Long-term adaptation strategies
-
----
-
-## 📞 Support & Contributing
-
-### **Get Help**
-- 📧 **Email**: support@aquasage.ai
-- 💬 **Discord**: [AquaSage Community](https://discord.gg/aquasage)
-- 📖 **Documentation**: [docs.aquasage.ai](https://docs.aquasage.ai)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/your-username/aquasage/issues)
-
-### **Contributing**
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
----
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
