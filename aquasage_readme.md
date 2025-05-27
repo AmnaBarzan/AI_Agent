@@ -9,6 +9,13 @@
 
 ---
 
+> 🔗 **Link for the app**: [App Link](https://aqua-sage.streamlit.app/)
+> > 🔗 **Watch the 60-second demo**: [YouTube Short](https://youtube.com/shorts/your_video_link)
+
+![App Screenshot](app.png)
+
+---
+
 ## 🎯 Problem Statement: The Water Crisis in Agriculture
 
 ### **The Critical Challenge**
